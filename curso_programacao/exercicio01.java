@@ -1,5 +1,3 @@
-package curso_programacao_for;
-
 import java.util.Scanner;
 
 public class exercicio01 {
